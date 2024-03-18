@@ -1,6 +1,6 @@
 To run the program, open the ConnectDB.java file in the directory.
 Ensure that you run the script to create the database before you attempt to connect and make any changes.
-
+Here is a link to a video demonstration of the code: https://youtu.be/rMzhxT1JDTY
 To create the database:
 
 1) Use pgadmin or any other software to create your database.
