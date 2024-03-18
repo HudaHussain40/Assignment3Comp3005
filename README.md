@@ -7,7 +7,8 @@ Ensure that you replace the url,username, and password to connect to a running p
 To create the database:
 
 1) Use pgadmin or any other software to create your database.
-2) Run the following script:
+2) Upload the populate.sql file and run the queries.
+3) Alternatively you can run the following script:
 
 CREATE TABLE students (
     student_id SERIAL PRIMARY KEY,
